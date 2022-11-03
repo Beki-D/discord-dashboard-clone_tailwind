@@ -1,3 +1,14 @@
+# Discord Clone
+
+![My Discored clone attempt screnshot](./public/screenshot-1.PNG)
+
+Here I attempted to make a clone of Discord. I made this project with ReactJS and Tailwind.
+
+This was originally a project idea of the guy from Fireship.io.
+Link to his video:
+
+After watching his projects, I made my own version with a bit of deviation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

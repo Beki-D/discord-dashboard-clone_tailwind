@@ -1,11 +1,13 @@
 import './App.css';
 import SideBar from './components/sidebar';
+import ContentContainer from './components/contentContainer';
 
 function App() {
   return (
-    <h1 className="flex">
+    <div className="flex">
       <SideBar />
-    </h1>
+      <ContentContainer />
+    </div>
   );
 }
 
