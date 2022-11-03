@@ -4,7 +4,7 @@
 module.exports = {
   mode: 'jit',
   purge: ["./src/**/*.{js,jsx,ts,tsx}", "./piblic/index.html"],
-  darkMode: false,
+  darkMode: 'class',
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
