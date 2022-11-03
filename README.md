@@ -5,7 +5,8 @@
 Here I attempted to make a clone of Discord. I made this project with ReactJS and Tailwind.
 
 This was originally a project idea of the guy from Fireship.io.
-Link to his video:
+
+Link to his video: https://www.youtube.com/watch?v=pfaSUYaSgRo&t=530s
 
 After watching his projects, I made my own version with a bit of deviation.
 
