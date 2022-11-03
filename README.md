@@ -4,7 +4,7 @@
 
 Here I attempted to make a clone of Discord. I made this project with ReactJS and Tailwind.
 
-This was originally a project idea of the guy from Fireship.io.
+This was originally a project idea of Jeff Delaney from Fireship.io. He's an awesome, fast-paced guy.
 
 Link to his video: https://www.youtube.com/watch?v=pfaSUYaSgRo&t=530s
 His github account: https://github.com/fireship-io
