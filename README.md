@@ -7,6 +7,7 @@ Here I attempted to make a clone of Discord. I made this project with ReactJS an
 This was originally a project idea of Jeff Delaney from Fireship.io. He's an awesome, fast-paced guy.
 
 Link to his video: https://www.youtube.com/watch?v=pfaSUYaSgRo&t=530s
+
 His github account: https://github.com/fireship-io
 
 After watching his projects, I made my own version with a bit of deviation.
