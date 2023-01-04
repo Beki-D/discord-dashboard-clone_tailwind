@@ -1,4 +1,4 @@
-# Discord Clone
+# Discord Clone (ReactJS, Tailwind CSS)
 
 ![My Discored clone attempt screnshot](./public/screenshot-1.PNG)
 
